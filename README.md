@@ -1,5 +1,7 @@
 # Wherever-We-Go
 
+HERE IS THE LINK TO THE PROJECT: <a> https://devpost.com/software/wherever-we-go?ref_content=user-portfolio&ref_feature=in_progress </a>
+
 During this project for the UC Davis Hackathon 2022, I spearheaded the creation of an online forum aimed at empowering students with disabilities to voice their perspectives and drive change. This platform was not only a technical challenge but also held immense potential for societal impact. Crucially, the success of this endeavor was rooted in the seamless collaboration with a cross-functional team. We harnessed Figma as a collaborative canvas, where abstract ideas seamlessly transformed into palpable design concepts. Subsequently, we used HTML, CSS, and Javascript to translate these designs into a functional website, uniting aesthetics and functionality.
 
 Collaboration extended to the development phase as well. Teaming up with a skilled peer programmer, we translated the intricate designs into a dynamic reality. Utilizing HTML, CSS, and Javascript, we recreated the envisioned user experience. This phase demanded a blend of technical expertise and an understanding of user behavior. Our collaboration culminated in an accessible and intuitive platform, aligning perfectly with the project's goals of inclusivity and empowerment.
